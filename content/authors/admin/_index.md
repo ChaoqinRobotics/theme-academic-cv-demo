@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 秦超
+title: Chao Qin
 
 # Name pronunciation (optional)
 name_pronunciation: Qin Chao
