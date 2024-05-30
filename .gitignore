@@ -1,3 +1,5 @@
 public/**
 resources/**
 .cache/
+
+hugo_stats.json
