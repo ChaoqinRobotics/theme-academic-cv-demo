@@ -26,8 +26,6 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-    - name: Install Dart Sass
-      run: sudo snap install dart-sass
     - name: Checkout
       uses: actions/checkout@v4
       with:
